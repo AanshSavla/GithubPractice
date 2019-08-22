@@ -1,0 +1,54 @@
+<!doctype html>
+<html>
+<head> 
+<title> Shirt </title> 
+<style>
+body
+{
+background-color:rgb(255,255,128);
+}
+</style>
+</head>
+
+<body>
+<h1 style="font-size:100px;color:red;font-family:Brush Script MT;text-align:center;text-decoration:underline">Buy a shirt</h1>
+<h1 style="font-size:50px;color:rgb(29,142,175);">1)Cloth of your shirt:</h1>
+<form action="" method="">
+<select style="font-size:30px;color:green;">
+<option value="">Select</option>
+<option value="select" style="font-size:30px;color:green;">Cotton</option>
+<option value="select" style="font-size:30px;color:green;">Tericotton</option>
+<option value="select" style="font-size:30px;color:green;">Polyster</option>
+<option value="select" style="font-size:30px;color:green;">Any</option> 
+</select>
+</form>
+<h1 style="font-size:50px;color:rgb(29,142,175);">2)Color of your shirt:</h1>
+<form action="" method="">
+<select style="font-size:30px;color:green;">
+<option value="">Select</option>
+<option value="select" style="font-size:30px;color:green;">White</option>
+<option value="select" style="font-size:30px;color:green;">Colour</option>
+<option value="select" style="font-size:30px;color:green;">Black</option>
+<option value="select" style="font-size:30px;color:green;">Any</option> 
+</select>
+</form>
+<h1 style="font-size:50px;color:rgb(29,142,175);">3)Number of shirts you want to make:</h1>
+<form action="" method="">
+<input type="number" min="0" max="50">
+</form>
+<h1 style="font-size:50px;color:rgb(29,142,175);">4)Specify mtrs if possible:</h1>
+<form action="" method="">
+<input type="number" min="0" max="50">
+</form>
+<h1 style="font-size:50px;color:rgb(29,142,175);">5)Mode of Transaction:</h1>
+<form action=""methods="">
+Net Banking
+<input type="radio" name="transaction" value=""></br>
+E-Wallet
+<input type="radio" name="transaction" value=""></br>
+Credit or Debit card
+<input type="radio" name="transaction" value=""></br>
+Cash on Delivery
+<input type="radio" name="transaction" value=""></br>
+</body>
+</html>

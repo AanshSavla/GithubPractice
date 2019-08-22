@@ -1,0 +1,54 @@
+ body
+{
+background-color:rgb(131,131,131);
+padding-top:10px;
+padding-left:70px;
+padding-right:70px;
+}
+#nav
+{
+background-color:darkgreen;
+height:50px;
+font-size:30px;
+font-weight:bold;
+font:Tahoma;
+}
+#nav ul
+{
+margin:0px;
+padding:0px;
+list-style-type:none;
+
+}
+#nav li
+{
+display:inline;
+padding:15px;
+vertical-align:middle;
+
+}
+#nav a
+{
+text-decoration:none;
+padding:8px 8px 12px 8px;
+color:white;
+vertical-align:middle;
+margin:0px;
+}
+
+#nav a:hover{
+color:yellow;
+background-color:rgb(4,50,3);
+}
+.imagec
+{
+margin-left:60px;
+}
+.box
+{
+background-color:rgb(34,156,31);
+font-size:150px;
+color:aqua;
+text-align:center;
+margin:90px;
+}
